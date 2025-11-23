@@ -36,7 +36,7 @@ Agora você pode testar e utilizar o projeto diretamente no seu celular.
 Estrutura de pastas:
 
 projeto/
-├── src/           → Códigos dos 4 exercícios, Home, Login e Cadastro
+├── src/           → Códigos dos 4 exercícios, Home, Login, Cadastro e Sobre mim
 ├── banco/         → Banco de dados
 ├── documentacao/  → Instruções/Documentação
 └── App.js         → Arquivo principal
