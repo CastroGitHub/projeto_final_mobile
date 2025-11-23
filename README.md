@@ -5,7 +5,7 @@ Projeto de Programação para Dispositivos Móveis, contendo login e cadastro si
 
 ## 1. Clonar o repositório
 
-git clone https://github.com/.......................
+git clone (https://github.com/CastroGitHub/projeto_final_mobile)
 
 
 ## 2. Acessar a pasta do projeto
