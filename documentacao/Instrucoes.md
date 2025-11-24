@@ -2,12 +2,12 @@
 
 ## 1. Clonar o repositório
 
-git clone https://github.com/CastroGitHub/projeto_final_mobile
+git clone https://github.com/CastroGitHub/projeto_final_mobile.git
 
 
 ## 2. Acessar a pasta do projeto
 
-cd p2-home
+cd projeto_final_mobile
 
 ## 3. Instalar as dependências
 
